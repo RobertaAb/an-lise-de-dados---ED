@@ -1,4 +1,4 @@
-# Pandas_Jupiter_INEP
+# Pandas_Jupyter_INEP
 Comparativo de dados públicos disponibilizados pelo INEP , os arquivos utilizados foram do seguinte endereço: 
 http://inep.gov.br/microdados em secção, Censo da Educação superior, ano de 2018.
 Usado os dados de Docente , foi comparado informações de UF, Trabalho e Grau de Instrução.Tive alguns problemas na configuração pelo cmd, e por isso usei o ANACONDA para uso do Notebook Jupyter e gerar os dados necessários para este trabalho. Utilizando as biliotecas Pandas, Matplotlib.pyplot e seaborn.
