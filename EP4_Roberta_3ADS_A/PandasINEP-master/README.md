@@ -8,8 +8,10 @@ os arquivos utilizados são de download no site
 http://inep.gov.br/microdados em secção Censo da Educação superior, ano de 2018
 
 O objetivo deste levantamento é o desenvolvimento didátido de manipulação de dados em grande/médio volume, a utilização da ferramenta e linguagem python3 de programação.
+
+Tive alguns problemas na configuração pelo cmd, e por isso usei o ANACONDA para uso do Notebook Jupyter e gerar os dados necessários para este trabalho
 Mestre responsável: Prof. Fernando Masanori
 Faculdade: Fatec São José dos Campos
 Curso de Análise e desenvolvimento de Sistemas
-Disciplina: Laboratório de Banco de Dados
-Aluna responsável: Gisele Barba de Lima Lapa
+Disciplina: Estrutura de Dados
+Aluna responsável: Roberta Cristina de Abreu
