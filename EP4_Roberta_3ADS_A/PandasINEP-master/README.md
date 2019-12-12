@@ -1,15 +1,10 @@
 # Pandas_Jupiter_INEP
-Comparativo de dados públicos disponibilizados pelo INEP
-Referente a instituições de ensino superior
-Foi analisado o corpo docente das instituições recensiadas.
-Para tal está sendo usado para levantamento e comparação dos dados o Pandas e Jupiter notebook.
+Comparativo de dados públicos disponibilizados pelo INEP , os arquivos utilizados foram do seguinte endereço: 
+http://inep.gov.br/microdados em secção Censo da Educação superior, ano de 2018.
+Usado os dados de Docente , foi comparado informações de UF, TRABALHO E Grau de Instrução.Tive alguns problemas na configuração pelo cmd, e por isso usei o ANACONDA para uso do Notebook Jupyter e gerar os dados necessários para este trabalho. Utilizando as biliotecas Pandas, Matplotlib.pyplot e seaborn.
 
-os arquivos utilizados são de download no site 
-http://inep.gov.br/microdados em secção Censo da Educação superior, ano de 2018
+O objetivo deste levantamento é a apresentação de Data Analytics a partir de dados públicos e utilizando o Notebook Jupyter na análise e geração de gráficos e junto com python3 e ipython.
 
-O objetivo deste levantamento é o desenvolvimento didátido de manipulação de dados em grande/médio volume, a utilização da ferramenta e linguagem python3 de programação.
-
-Tive alguns problemas na configuração pelo cmd, e por isso usei o ANACONDA para uso do Notebook Jupyter e gerar os dados necessários para este trabalho
 Mestre responsável: Prof. Fernando Masanori
 Faculdade: Fatec São José dos Campos
 Curso de Análise e desenvolvimento de Sistemas
